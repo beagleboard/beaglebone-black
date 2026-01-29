@@ -1,0 +1,4277 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Jan-13-2026 at 17:02:39 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BEAGLEBONEBLK_C';
+ POST_TIME='Jun 18 2025 22:29:23';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21459032@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21459032@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21459032@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,150)',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420220@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420220@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420220@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,510)',
+ SECTION='';
+
+PART_NAME
+ C100 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21818454@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21818454@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21818454@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,800)',
+ SECTION='';
+
+PART_NAME
+ C101 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21818200@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21818200@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21818200@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,800)',
+ SECTION='';
+
+PART_NAME
+ C102 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21817946@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21817946@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21817946@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,800)',
+ SECTION='';
+
+PART_NAME
+ C103 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21871852@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21871852@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21871852@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,800)',
+ SECTION='';
+
+PART_NAME
+ C104 'CAP_1.0UF_X5R_10V_10%_0402_402_1UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20420974@MASTER.CAP_1.0UF_X5R_10V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20420974@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20420974@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1380,800)',
+ SECTION='';
+
+PART_NAME
+ C105 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21864223@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21864223@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21864223@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1410,800)',
+ SECTION='';
+
+PART_NAME
+ C106 'CAP_1.0UF_X5R_10V_10%_0402_402_1UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22518392@MASTER.CAP_1.0UF_X5R_10V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22518392@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins22518392@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1490,800)',
+ SECTION='';
+
+PART_NAME
+ C107 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21852413@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21852413@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21852413@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,460)',
+ SECTION='';
+
+PART_NAME
+ C108 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21852252@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21852252@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21852252@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,460)',
+ SECTION='';
+
+PART_NAME
+ C109 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21852091@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21852091@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21852091@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,460)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420248@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420248@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420248@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,540)',
+ SECTION='';
+
+PART_NAME
+ C110 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21851930@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21851930@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21851930@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,460)',
+ SECTION='';
+
+PART_NAME
+ C111 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21851769@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21851769@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21851769@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1060,460)',
+ SECTION='';
+
+PART_NAME
+ C112 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21851608@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21851608@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21851608@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1100,460)',
+ SECTION='';
+
+PART_NAME
+ C113 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21851447@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21851447@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21851447@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,460)',
+ SECTION='';
+
+PART_NAME
+ C114 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21851286@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21851286@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21851286@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,460)',
+ SECTION='';
+
+PART_NAME
+ C115 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21851125@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21851125@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21851125@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1220,460)',
+ SECTION='';
+
+PART_NAME
+ C116 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21850964@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21850964@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21850964@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1260,460)',
+ SECTION='';
+
+PART_NAME
+ C117 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21850872@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21850872@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21850872@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,460)',
+ SECTION='';
+
+PART_NAME
+ C118 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21704137@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21704137@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21704137@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1160,600)',
+ SECTION='';
+
+PART_NAME
+ C119 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21855196@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21855196@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21855196@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1210,600)',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420240@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420240@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420240@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1100,540)',
+ SECTION='';
+
+PART_NAME
+ C120 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21855357@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21855357@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21855357@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1260,600)',
+ SECTION='';
+
+PART_NAME
+ C121 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21855518@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21855518@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21855518@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,600)',
+ SECTION='';
+
+PART_NAME
+ C122 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21650798@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21650798@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21650798@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1340,600)',
+ SECTION='';
+
+PART_NAME
+ C123 'CAP_0.001_X7R_50V_5%_0402_402_0.001UF,50V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21650959@MASTER.CAP_0.001_X7R_50V_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21650959@master.\cap_0.001_x7r_50v_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21650959@master.\cap_0.001_x7r_50v_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,660)',
+ SECTION='';
+
+PART_NAME
+ C124 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21863149@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21863149@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21863149@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,650)',
+ SECTION='';
+
+PART_NAME
+ C125 'CAP_2.2UF_X5R_6.3V_10%_0402_402_2.2UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21703252@MASTER.CAP_2.2UF_X5R_6.3V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21703252@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21703252@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,110)',
+ SECTION='';
+
+PART_NAME
+ C126 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21748009@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21748009@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21748009@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,170)',
+ SECTION='';
+
+PART_NAME
+ C127 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21870983@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21870983@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21870983@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,170)',
+ SECTION='';
+
+PART_NAME
+ C128 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21870897@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21870897@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21870897@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,170)',
+ SECTION='';
+
+PART_NAME
+ C129 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21870811@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21870811@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21870811@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,170)',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420448@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420448@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420448@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,590)',
+ SECTION='';
+
+PART_NAME
+ C130 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21870725@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21870725@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21870725@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,170)',
+ SECTION='';
+
+PART_NAME
+ C131 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21815936@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21815936@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21815936@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,130)',
+ SECTION='';
+
+PART_NAME
+ C132 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21816001@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21816001@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21816001@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,130)',
+ SECTION='';
+
+PART_NAME
+ C133 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21459248@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21459248@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21459248@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,130)',
+ SECTION='';
+
+PART_NAME
+ C134 'CAP_1.0UF_X5R_10V_10%_0402_402_1UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415626@MASTER.CAP_1.0UF_X5R_10V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415626@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415626@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,240)',
+ SECTION='';
+
+PART_NAME
+ C135 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21815876@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21815876@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21815876@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,230)',
+ SECTION='';
+
+PART_NAME
+ C136 '470PF/5%/50V/C0G/0603_0_0402_470PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415834@6584C.470PF/5%/50V/C0G/0603_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415834@\6584c\.\470pf/5%/50v/c0g/0603_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415834@\6584c\.\470pf/5%/50v/c0g/0603_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,230)',
+ SECTION='';
+
+PART_NAME
+ C137 'CAP_0402_100PF_COG_50V_402_15PF,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415950@BEAGLE_D.CAP_0402_100PF_COG_50V.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415950@beagle_d.\cap_0402_100pf_cog_50v.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415950@beagle_d.\cap_0402_100pf_cog_50v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,410)',
+ SECTION='';
+
+PART_NAME
+ C138 'CAP_0402_100PF_COG_50V_402_15PF,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415176@BEAGLE_D.CAP_0402_100PF_COG_50V.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415176@beagle_d.\cap_0402_100pf_cog_50v.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415176@beagle_d.\cap_0402_100pf_cog_50v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,410)',
+ SECTION='';
+
+PART_NAME
+ C139 'CAP_0402_100PF_COG_50V_402_15PF,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415288@BEAGLE_D.CAP_0402_100PF_COG_50V.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415288@beagle_d.\cap_0402_100pf_cog_50v.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415288@beagle_d.\cap_0402_100pf_cog_50v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,410)',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420487@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420487@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420487@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,590)',
+ SECTION='';
+
+PART_NAME
+ C140 'CAP_0402_100PF_COG_50V_402_15PF,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415476@BEAGLE_D.CAP_0402_100PF_COG_50V.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415476@beagle_d.\cap_0402_100pf_cog_50v.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415476@beagle_d.\cap_0402_100pf_cog_50v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,410)',
+ SECTION='';
+
+PART_NAME
+ C141 'CAP_0402_0.1UF_X5R_10V_402_0.022UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415566@BEAGLE_D.CAP_0402_0.1UF_X5R_10V.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415566@beagle_d.\cap_0402_0.1uf_x5r_10v.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415566@beagle_d.\cap_0402_0.1uf_x5r_10v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,490)',
+ SECTION='';
+
+PART_NAME
+ C142 'CAP_30PF_COG_50V_5%_0402_402_30PF,50V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415712@MASTER.CAP_30PF_COG_50V_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415712@master.\cap_30pf_cog_50v_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415712@master.\cap_30pf_cog_50v_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,690)',
+ SECTION='';
+
+PART_NAME
+ C143 'CAP_30PF_COG_50V_5%_0402_402_30PF,50V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415486@MASTER.CAP_30PF_COG_50V_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415486@master.\cap_30pf_cog_50v_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415486@master.\cap_30pf_cog_50v_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,690)',
+ SECTION='';
+
+PART_NAME
+ C144 'CAP_2.2UF_X5R_6.3V_10%_0402_402_2.2UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21574103@MASTER.CAP_2.2UF_X5R_6.3V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21574103@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21574103@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,520)',
+ SECTION='';
+
+PART_NAME
+ C145 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21869708@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21869708@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21869708@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(590,520)',
+ SECTION='';
+
+PART_NAME
+ C146 'CAP_2.2UF_X5R_6.3V_10%_0402_402_2.2UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21534380@MASTER.CAP_2.2UF_X5R_6.3V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21534380@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21534380@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,520)',
+ SECTION='';
+
+PART_NAME
+ C147 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21869793@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21869793@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21869793@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,520)',
+ SECTION='';
+
+PART_NAME
+ C148 'CAP_2.2UF_X5R_6.3V_10%_0402_402_2.2UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21534669@MASTER.CAP_2.2UF_X5R_6.3V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21534669@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21534669@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,520)',
+ SECTION='';
+
+PART_NAME
+ C149 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21869546@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21869546@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21869546@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,520)',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420476@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420476@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420476@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(950,620)',
+ SECTION='';
+
+PART_NAME
+ C150 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21869627@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21869627@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21869627@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,520)',
+ SECTION='';
+
+PART_NAME
+ C151 'CAP_2.2UF_X5R_6.3V_10%_0402_402_2.2UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21534325@MASTER.CAP_2.2UF_X5R_6.3V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21534325@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21534325@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,520)',
+ SECTION='';
+
+PART_NAME
+ C152 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21873894@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21873894@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21873894@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1320,500)',
+ SECTION='';
+
+PART_NAME
+ C153 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21730211@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21730211@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21730211@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,540)',
+ SECTION='';
+
+PART_NAME
+ C154 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21873937@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21873937@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21873937@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,540)',
+ SECTION='';
+
+PART_NAME
+ C155 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22316643@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22316643@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins22316643@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,480)',
+ SECTION='';
+
+PART_NAME
+ C156 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395037@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395037@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395037@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,850)',
+ SECTION='';
+
+PART_NAME
+ C157 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395201@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395201@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395201@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,850)',
+ SECTION='';
+
+PART_NAME
+ C158 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22287929@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22287929@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22287929@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1530,1060)',
+ SECTION='';
+
+PART_NAME
+ C159 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22248717@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22248717@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22248717@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1650,960)',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_2.2UF_X5R_6.3V_10%_0402_402_2.2UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420605@MASTER.CAP_2.2UF_X5R_6.3V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420605@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420605@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,660)',
+ SECTION='';
+
+PART_NAME
+ C160 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395214@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395214@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395214@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,850)',
+ SECTION='';
+
+PART_NAME
+ C161 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395227@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395227@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395227@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,850)',
+ SECTION='';
+
+PART_NAME
+ C162 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395255@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395255@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395255@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,850)',
+ SECTION='';
+
+PART_NAME
+ C163 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395263@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395263@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395263@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,850)',
+ SECTION='';
+
+PART_NAME
+ C164 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395271@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395271@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395271@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,850)',
+ SECTION='';
+
+PART_NAME
+ C165 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395279@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395279@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395279@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,850)',
+ SECTION='';
+
+PART_NAME
+ C166 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395327@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395327@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395327@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,850)',
+ SECTION='';
+
+PART_NAME
+ C167 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395335@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395335@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395335@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,850)',
+ SECTION='';
+
+PART_NAME
+ C168 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395343@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395343@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395343@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,850)',
+ SECTION='';
+
+PART_NAME
+ C169 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395351@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395351@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395351@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,850)',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_2.2UF_X5R_6.3V_10%_0402_402_2.2UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21758314@MASTER.CAP_2.2UF_X5R_6.3V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21758314@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21758314@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,770)',
+ SECTION='';
+
+PART_NAME
+ C170 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395359@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395359@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395359@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,850)',
+ SECTION='';
+
+PART_NAME
+ C171 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395367@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395367@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395367@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,850)',
+ SECTION='';
+
+PART_NAME
+ C172 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395375@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395375@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395375@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,850)',
+ SECTION='';
+
+PART_NAME
+ C173 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_47PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22395383@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22395383@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22395383@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,850)',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_2.2UF_X5R_6.3V_10%_0402_402_2.2UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21437389@MASTER.CAP_2.2UF_X5R_6.3V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21437389@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21437389@master.\cap_2.2uf_x5r_6.3v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,760)',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_470PF_X7R_25V_10%_0402_402_470PF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21758029@MASTER.CAP_470PF_X7R_25V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21758029@master.\cap_470pf_x7r_25v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21758029@master.\cap_470pf_x7r_25v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,780)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21458966@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21458966@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21458966@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,140)',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21815238@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21815238@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21815238@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,780)',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP_18PF_COG_50V_5%_0402_402_18PF,50V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21881193@MASTER.CAP_18PF_COG_50V_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21881193@master.\cap_18pf_cog_50v_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21881193@master.\cap_18pf_cog_50v_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,170)',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP_18PF_COG_50V_5%_0402_402_18PF,50V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21881170@MASTER.CAP_18PF_COG_50V_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21881170@master.\cap_18pf_cog_50v_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21881170@master.\cap_18pf_cog_50v_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,230)',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_1.0UF_X5R_10V_10%_0402_402_2.2UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21609819@MASTER.CAP_1.0UF_X5R_10V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21609819@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21609819@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1460,170)',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP_18PF_COG_50V_5%_0402_402_18PF,50V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20735770@MASTER.CAP_18PF_COG_50V_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20735770@master.\cap_18pf_cog_50v_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins20735770@master.\cap_18pf_cog_50v_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,310)',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP_18PF_COG_50V_5%_0402_402_18PF,50V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20735778@MASTER.CAP_18PF_COG_50V_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20735778@master.\cap_18pf_cog_50v_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins20735778@master.\cap_18pf_cog_50v_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,340)',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21871508@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21871508@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21871508@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1610,630)',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21871293@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21871293@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21871293@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,1040)',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21871193@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21871193@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21871193@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,1250)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21863316@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21863316@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21863316@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,190)',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21871238@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21871238@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21871238@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,1240)',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21863944@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21863944@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21863944@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,400)',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP_0.001_X7R_50V_5%_0402_402_0.001UF,50V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20364368@MASTER.CAP_0.001_X7R_50V_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20364368@master.\cap_0.001_x7r_50v_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins20364368@master.\cap_0.001_x7r_50v_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,400)',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21863913@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21863913@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21863913@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,390)',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP_100UF_TANT_6.3V_3528-21_RD205SMD_250D_100UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21717784@MASTER.CAP_100UF_TANT_6.3V_3528-21.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21717784@master.\cap_100uf_tant_6.3v_3528-21.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21717784@master.\cap_100uf_tant_6.3v_3528-21.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,1130)',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21863827@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21863827@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21863827@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,1150)',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21863796@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21863796@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21863796@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1190,1170)',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21835889@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21835889@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21835889@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1460,130)',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21836207@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21836207@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21836207@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1540,130)',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20664221@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20664221@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20664221@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(40,170)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420066@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420066@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420066@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,210)',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20405992@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20405992@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20405992@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,170)',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21840750@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21840750@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21840750@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,170)',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21840448@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21840448@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21840448@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,170)',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21840440@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21840440@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21840440@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,170)',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21840138@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21840138@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21840138@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,170)',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21839836@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21839836@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21839836@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,170)',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21839534@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21839534@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21839534@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,170)',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21839232@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21839232@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21839232@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,170)',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21838930@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21838930@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21838930@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,170)',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21838628@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21838628@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21838628@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,170)',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21838326@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21838326@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21838326@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,170)',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21838024@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21838024@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21838024@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,170)',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21837722@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21837722@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21837722@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,170)',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21837420@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21837420@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21837420@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,170)',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21837118@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21837118@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21837118@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,170)',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20664208@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20664208@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20664208@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,170)',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21835571@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21835571@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21835571@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1460,170)',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21835253@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21835253@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21835253@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1540,170)',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21834617@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21834617@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21834617@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1460,240)',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21834935@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21834935@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21834935@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1510,240)',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21834299@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21834299@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21834299@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1460,290)',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21833981@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21833981@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21833981@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1520,290)',
+ SECTION='';
+
+PART_NAME
+ C62 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20408678@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20408678@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20408678@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,360)',
+ SECTION='';
+
+PART_NAME
+ C63 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21846187@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21846187@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21846187@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,360)',
+ SECTION='';
+
+PART_NAME
+ C64 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21846683@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21846683@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21846683@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,360)',
+ SECTION='';
+
+PART_NAME
+ C65 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21846435@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21846435@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21846435@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,360)',
+ SECTION='';
+
+PART_NAME
+ C66 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21873483@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21873483@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21873483@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1310,380)',
+ SECTION='';
+
+PART_NAME
+ C67 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21876422@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21876422@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21876422@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1390,380)',
+ SECTION='';
+
+PART_NAME
+ C68 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21827065@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21827065@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21827065@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1280,430)',
+ SECTION='';
+
+PART_NAME
+ C69 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21827381@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21827381@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21827381@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1330,430)',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420204@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420204@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420204@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,430)',
+ SECTION='';
+
+PART_NAME
+ C70 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21827602@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21827602@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21827602@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1380,430)',
+ SECTION='';
+
+PART_NAME
+ C71 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21827918@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21827918@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21827918@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1440,430)',
+ SECTION='';
+
+PART_NAME
+ C72 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21828234@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21828234@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21828234@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1480,430)',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21828550@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21828550@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21828550@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1520,430)',
+ SECTION='';
+
+PART_NAME
+ C74 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21828866@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21828866@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21828866@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1560,430)',
+ SECTION='';
+
+PART_NAME
+ C75 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21829182@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21829182@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21829182@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1610,430)',
+ SECTION='';
+
+PART_NAME
+ C76 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21829498@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21829498@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21829498@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1670,430)',
+ SECTION='';
+
+PART_NAME
+ C77 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20669551@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20669551@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20669551@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1720,430)',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21848829@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21848829@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21848829@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,530)',
+ SECTION='';
+
+PART_NAME
+ C79 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21848596@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21848596@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21848596@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,530)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420212@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420212@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420212@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,470)',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21872370@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21872370@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21872370@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1340,550)',
+ SECTION='';
+
+PART_NAME
+ C81 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21872901@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21872901@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21872901@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1390,550)',
+ SECTION='';
+
+PART_NAME
+ C82 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21875039@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21875039@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21875039@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1450,550)',
+ SECTION='';
+
+PART_NAME
+ C83 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21875306@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21875306@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21875306@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1510,550)',
+ SECTION='';
+
+PART_NAME
+ C84 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21875573@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21875573@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21875573@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1570,550)',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21875840@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21875840@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21875840@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1640,550)',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21849988@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21849988@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21849988@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,600)',
+ SECTION='';
+
+PART_NAME
+ C87 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21849670@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21849670@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21849670@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,600)',
+ SECTION='';
+
+PART_NAME
+ C88 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21864711@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21864711@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21864711@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,600)',
+ SECTION='';
+
+PART_NAME
+ C89 'CAP_1.0UF_X5R_10V_10%_0402_402_1UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20419128@MASTER.CAP_1.0UF_X5R_10V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20419128@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20419128@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,600)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21559287@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21559287@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21559287@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1150,540)',
+ SECTION='';
+
+PART_NAME
+ C90 'CAP_1.0UF_X5R_10V_10%_0402_402_1UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20418884@MASTER.CAP_1.0UF_X5R_10V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20418884@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20418884@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,600)',
+ SECTION='';
+
+PART_NAME
+ C91 'CAP_1.0UF_X5R_10V_10%_0402_402_1UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20418640@MASTER.CAP_1.0UF_X5R_10V_10%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20418640@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20418640@master.\cap_1.0uf_x5r_10v_10%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,600)',
+ SECTION='';
+
+PART_NAME
+ C92 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21870141@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21870141@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21870141@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,700)',
+ SECTION='';
+
+PART_NAME
+ C93 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21820865@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21820865@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21820865@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,700)',
+ SECTION='';
+
+PART_NAME
+ C94 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21820632@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21820632@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21820632@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1550,700)',
+ SECTION='';
+
+PART_NAME
+ C95 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21779483@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21779483@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21779483@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,800)',
+ SECTION='';
+
+PART_NAME
+ C96 'CAP_10UF_Y5V_10V_10%_0805_805_10UF,10V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20409980@MASTER.CAP_10UF_Y5V_10V_10%_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20409980@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20409980@master.\cap_10uf_y5v_10v_10%_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,800)',
+ SECTION='';
+
+PART_NAME
+ C97 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21819216@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21819216@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21819216@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,800)',
+ SECTION='';
+
+PART_NAME
+ C98 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21818962@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21818962@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21818962@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,800)',
+ SECTION='';
+
+PART_NAME
+ C99 'CAP_0.1UF_X5R_6.3V_20% 0201 _402_0.1UF,6.3V':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21818708@MASTER.CAP_0.1UF_X5R_6.3V_20% 0201 .NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21818708@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins21818708@master.\cap_0.1uf_x5r_6.3v_20% 0201 .normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,800)',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LTST-C150GKT_0_LED_0603_DISCRETE_LTST-C191TBKT':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21911608@BEAGLEBONELT_P11.LED_LTST-C150GKT_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21911608@beaglebonelt_p11.\led_ltst-c150gkt_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21911608@beaglebonelt_p11.\led_ltst-c150gkt_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,710)',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LTST-C150GKT_0_LED_0603_DISCRETE_LTST-C191TBKT':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20427107@BEAGLEBONELT_P11.LED_LTST-C150GKT_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20427107@beaglebonelt_p11.\led_ltst-c150gkt_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20427107@beaglebonelt_p11.\led_ltst-c150gkt_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,150)',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LTST-C150GKT_0_LED_0603_DISCRETE_LTST-C191TBKT':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21911534@BEAGLEBONELT_P11.LED_LTST-C150GKT_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21911534@beaglebonelt_p11.\led_ltst-c150gkt_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21911534@beaglebonelt_p11.\led_ltst-c150gkt_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,150)',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LTST-C150GKT_0_LED_0603_DISCRETE_LTST-C191TBKT':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21911551@BEAGLEBONELT_P11.LED_LTST-C150GKT_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21911551@beaglebonelt_p11.\led_ltst-c150gkt_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21911551@beaglebonelt_p11.\led_ltst-c150gkt_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1190,150)',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_LTST-C150GKT_0_LED_0603_DISCRETE_LTST-C191TBKT':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21911568@BEAGLEBONELT_P11.LED_LTST-C150GKT_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21911568@beaglebonelt_p11.\led_ltst-c150gkt_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21911568@beaglebonelt_p11.\led_ltst-c150gkt_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1350,150)',
+ SECTION='';
+
+PART_NAME
+ D6 '32CTQ030/TO_1_TSSOP10_IP4283CZ10-TT':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22101147@BEAGLEBONELT_P25.32CTQ030/TO_1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22101147@beaglebonelt_p25.\32ctq030/to_1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22101147@beaglebonelt_p25.\32ctq030/to_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,360)',
+ SECTION='';
+
+PART_NAME
+ D7 '32CTQ030/TO_1_TSSOP10_IP4283CZ10-TT':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22101023@BEAGLEBONELT_P25.32CTQ030/TO_1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22101023@beaglebonelt_p25.\32ctq030/to_1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22101023@beaglebonelt_p25.\32ctq030/to_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,360)',
+ SECTION='';
+
+PART_NAME
+ D8 'DIO_SR305_TH_0_SOD323_RB751V40,115':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22245908@BEAGLEBONELT_A1.DIO_SR305_TH_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22245908@beaglebonelt_a1.\dio_sr305_th_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22245908@beaglebonelt_a1.\dio_sr305_th_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,210)',
+ SECTION='';
+
+PART_NAME
+ FB1 'FER_180_200_0_SM-7351-IND-0805_150OHM800MA':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20417005@BEAGLEBONE_P3.FER_180_200_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20417005@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20417005@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,480)',
+ SECTION='';
+
+PART_NAME
+ FB2 'FER_180_200_0_SM-7351-IND-0805_150OHM800MA':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20490678@BEAGLEBONE_P3.FER_180_200_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20490678@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20490678@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1550,620)',
+ SECTION='';
+
+PART_NAME
+ FB3 'FER_180_200_0_SM-7351-IND-0805_150OHM800MA':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20416698@BEAGLEBONE_P3.FER_180_200_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20416698@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20416698@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1680,640)',
+ SECTION='';
+
+PART_NAME
+ FB4 'FER_180_200_0_SM-7351-IND-0805_150OHM800MA':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415348@BEAGLEBONE_P3.FER_180_200_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415348@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415348@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,210)',
+ SECTION='';
+
+PART_NAME
+ FB5 'FER_180_200_0805_SM-7351-IND-0805_150OHM800MA':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21902894@MASTER.FER_180_200_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21902894@master.\fer_180_200_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21902894@master.\fer_180_200_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,480)',
+ SECTION='';
+
+PART_NAME
+ FB7 'FER_180_200_0_SM-7351-IND-0805_150OHM800MA':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22425212@BEAGLEBONE_P3.FER_180_200_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22425212@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins22425212@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,1080)',
+ SECTION='';
+
+PART_NAME
+ FB8 'FER_180_200_0_SM-7351-IND-0805_0.1 OHM,0805':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22425459@BEAGLEBONE_P3.FER_180_200_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22425459@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins22425459@beaglebone_p3.\fer_180_200_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,1040)',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 6_SIP6_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21768685@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21768685@connector.\header 6.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21768685@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,500)',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_2.2UH_2.6A_10%_SMD_2520_LQM2HPN2R2MG0L':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21421082@MASTER.IND_2.2UH_2.6A_10%_SMD.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21421082@master.\ind_2.2uh_2.6a_10%_smd.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21421082@master.\ind_2.2uh_2.6a_10%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,440)',
+ SECTION='';
+
+PART_NAME
+ L2 'IND_2.2UH_2.6A_10%_SMD_2520_LQM2HPN2R2MG0L':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21421074@MASTER.IND_2.2UH_2.6A_10%_SMD.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21421074@master.\ind_2.2uh_2.6a_10%_smd.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21421074@master.\ind_2.2uh_2.6a_10%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,480)',
+ SECTION='';
+
+PART_NAME
+ L3 'IND_2.2UH_2.6A_10%_SMD_2520_LQM2HPN2R2MG0L':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21421066@MASTER.IND_2.2UH_2.6A_10%_SMD.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21421066@master.\ind_2.2uh_2.6a_10%_smd.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21421066@master.\ind_2.2uh_2.6a_10%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,520)',
+ SECTION='';
+
+PART_NAME
+ MTG1 'MHOLE_MTGH200C125D_PL_MHOLE':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20899078@BEAGLE_D.MHOLE.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20899078@beagle_d.\mhole.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins20899078@beagle_d.\mhole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,350)',
+ SECTION='';
+
+PART_NAME
+ MTG2 'MHOLE_MTGH200C125D_PL_MHOLE':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20899424@BEAGLE_D.MHOLE.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20899424@beagle_d.\mhole.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins20899424@beagle_d.\mhole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,390)',
+ SECTION='';
+
+PART_NAME
+ MTG3 'MHOLE_MTGH200C125D_PL_MHOLE':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20899448@BEAGLE_D.MHOLE.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20899448@beagle_d.\mhole.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins20899448@beagle_d.\mhole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,430)',
+ SECTION='';
+
+PART_NAME
+ MTG4 'MHOLE_MTGH200C125D_PL_MHOLE':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20899472@BEAGLE_D.MHOLE.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20899472@beagle_d.\mhole.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins20899472@beagle_d.\mhole.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,470)',
+ SECTION='';
+
+PART_NAME
+ P1 'POWER_JACK_CONN3-PWR-PJ102A_PJ-200A':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21795354@BEAGLE_1.POWER_JACK.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21795354@beagle_1.\power_jack.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21795354@beagle_1.\power_jack.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,110)',
+ SECTION='';
+
+PART_NAME
+ P10 'MICROSD_CONN_8_SD-MICRO-SCHA5B0300_SCHA5B0200':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22371799@BEAGLE_XM_REVC.MICROSD_CONN_8.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22371799@beagle_xm_revc.\microsd_conn_8.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins22371799@beagle_xm_revc.\microsd_conn_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,630)',
+ SECTION='';
+
+PART_NAME
+ P2 'HDR_10X2_CJTAG_0_HEADER10X2_SMD_CTI JTAG,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21508940@BEAGLEBONELT_P16.HDR_10X2_CJTAG_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21508940@beaglebonelt_p16.\hdr_10x2_cjtag_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21508940@beaglebonelt_p16.\hdr_10x2_cjtag_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,1110)',
+ SECTION='';
+
+PART_NAME
+ P3 'CONN_54819-0578_2_USB_A_SH_IO_87520-0010BLF':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21881738@BEAGLE_P4.CONN_54819-0578_2.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21881738@beagle_p4.\conn_54819-0578_2.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21881738@beagle_p4.\conn_54819-0578_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,1080)',
+ SECTION='';
+
+PART_NAME
+ P4 'MINI-USB-AB-SOCKET_USB5MINI_4SHIELDED_SMD-5_USB5MINI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21764025@BEAGLE_D.MINI-USB-AB-SOCKET.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21764025@beagle_d.\mini-usb-ab-socket.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21764025@beagle_d.\mini-usb-ab-socket.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,1050)',
+ SECTION='';
+
+PART_NAME
+ P5 'CONN_RJ45_MAG_WE_0_RJ45-7499010211A_LPJ0011BBNL':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415668@BEAGLEBONE_P12.CONN_RJ45_MAG_WE_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415668@beaglebone_p12.\conn_rj45_mag_we_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415668@beaglebone_p12.\conn_rj45_mag_we_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,320)',
+ SECTION='';
+
+PART_NAME
+ P6 'CONN_HDMI_TYPED_CONN19_HDMI_10118241-001RLF':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22181706@MASTER.CONN_HDMI_TYPED.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22181706@master.\conn_hdmi_typed.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22181706@master.\conn_hdmi_typed.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1380,90)',
+ SECTION='';
+
+PART_NAME
+ P8 'HDR_46_F_2_0.1_0.1_HEADER23X2_FEMALE HEADER 2X23':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20948170@MASTER.HDR_46_F_2_0.1_0.1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20948170@master.\hdr_46_f_2_0.1_0.1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins20948170@master.\hdr_46_f_2_0.1_0.1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,80)',
+ SECTION='';
+
+PART_NAME
+ P9 'HDR_46_F_2_0.1_0.1_HEADER23X2_FEMALE HEADER 2X23':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20948861@MASTER.HDR_46_F_2_0.1_0.1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20948861@master.\hdr_46_f_2_0.1_0.1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins20948861@master.\hdr_46_f_2_0.1_0.1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,90)',
+ SECTION='';
+
+PART_NAME
+ Q1 'RN1907_SMINI6-F3-B_DMC56404':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20349924@BEAGLE_D.RN1907.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20349924@beagle_d.\rn1907.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20349924@beagle_d.\rn1907.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,240)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20349933@BEAGLE_D.RN1907.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20349933@beagle_d.\rn1907.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20349933@beagle_d.\rn1907.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,240)',
+ SECTION='B';
+
+PART_NAME
+ Q2 'RN1907_SMINI6-F3-B_DMC56404':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21511130@BEAGLE_D.RN1907.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21511130@beagle_d.\rn1907.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21511130@beagle_d.\rn1907.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,230)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21511142@BEAGLE_D.RN1907.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21511142@beagle_d.\rn1907.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21511142@beagle_d.\rn1907.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1170,230)',
+ SECTION='B';
+
+PART_NAME
+ R1 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21419995@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21419995@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21419995@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,220)',
+ SECTION='';
+
+PART_NAME
+ R10 'RES_470_1/10W_5%_0402_402_470K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21757496@MASTER.RES_470_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21757496@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21757496@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,720)',
+ SECTION='';
+
+PART_NAME
+ R100 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21650608@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21650608@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21650608@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,630)',
+ SECTION='';
+
+PART_NAME
+ R101 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21795940@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21795940@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21795940@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,90)',
+ SECTION='';
+
+PART_NAME
+ R102 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21795948@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21795948@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21795948@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,90)',
+ SECTION='';
+
+PART_NAME
+ R103 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21795964@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21795964@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21795964@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,90)',
+ SECTION='';
+
+PART_NAME
+ R104 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21795956@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21795956@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21795956@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,90)',
+ SECTION='';
+
+PART_NAME
+ R105 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21795972@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21795972@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21795972@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,90)',
+ SECTION='';
+
+PART_NAME
+ R106 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21795984@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21795984@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21795984@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,90)',
+ SECTION='';
+
+PART_NAME
+ R107 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21796315@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21796315@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21796315@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,90)',
+ SECTION='';
+
+PART_NAME
+ R108 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21796328@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21796328@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21796328@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,90)',
+ SECTION='';
+
+PART_NAME
+ R109 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21796341@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21796341@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21796341@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,90)',
+ SECTION='';
+
+PART_NAME
+ R11 'RES_470_1/10W_5%_0402_402_280K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21757483@MASTER.RES_470_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21757483@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21757483@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,720)',
+ SECTION='';
+
+PART_NAME
+ R110 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21796354@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21796354@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21796354@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,90)',
+ SECTION='';
+
+PART_NAME
+ R111 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21796651@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21796651@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins21796651@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,90)',
+ SECTION='';
+
+PART_NAME
+ R112 'RES_4.75K_1/16W_1%_0402_402_1.5K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415850@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415850@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415850@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1420,110)',
+ SECTION='';
+
+PART_NAME
+ R113 'RES_4.75K_1/16W_1%_0402_402_1.5K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415882@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415882@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415882@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,120)',
+ SECTION='';
+
+PART_NAME
+ R114 'RES_4.75K_1/16W_1%_0402_402_1.5K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415814@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415814@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415814@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1390,120)',
+ SECTION='';
+
+PART_NAME
+ R115 'RES_4.75K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21416012@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21416012@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21416012@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,140)',
+ SECTION='';
+
+PART_NAME
+ R116 'RES_4.75K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415466@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415466@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415466@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,140)',
+ SECTION='';
+
+PART_NAME
+ R117 'RES_4.75K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415166@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415166@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415166@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1150,150)',
+ SECTION='';
+
+PART_NAME
+ R118 'RES_4.75K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415702@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415702@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415702@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1180,140)',
+ SECTION='';
+
+PART_NAME
+ R119 'RES_1.5K_1/16W_5%_0402_402_1.5K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415782@MASTER.RES_1.5K_1/16W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415782@master.\res_1.5k_1/16w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415782@master.\res_1.5k_1/16w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,280)',
+ SECTION='';
+
+PART_NAME
+ R12 'RES_470_1/10W_5%_0402_402_4.75K,5%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420397@MASTER.RES_470_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420397@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420397@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,720)',
+ SECTION='';
+
+PART_NAME
+ R120 'RES_4.7K_0402_402_49.9,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415606@BEAGLE_D.RES_4.7K_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415606@beagle_d.\res_4.7k_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415606@beagle_d.\res_4.7k_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,260)',
+ SECTION='';
+
+PART_NAME
+ R121 'RES_4.7K_0402_402_49.9,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415722@BEAGLE_D.RES_4.7K_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415722@beagle_d.\res_4.7k_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415722@beagle_d.\res_4.7k_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,260)',
+ SECTION='';
+
+PART_NAME
+ R122 'RES_4.7K_0402_402_49.9,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415792@BEAGLE_D.RES_4.7K_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415792@beagle_d.\res_4.7k_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415792@beagle_d.\res_4.7k_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,260)',
+ SECTION='';
+
+PART_NAME
+ R123 'RES_4.7K_0402_402_49.9,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415872@BEAGLE_D.RES_4.7K_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415872@beagle_d.\res_4.7k_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415872@beagle_d.\res_4.7k_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,260)',
+ SECTION='';
+
+PART_NAME
+ R124 '100-1/10W-1%-0603_4_402_10,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415860@LAN8710 MII ASSY_6583 REV_C1P0.100-1/10W-1%-0603_4.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415860@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415860@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,320)',
+ SECTION='';
+
+PART_NAME
+ R125 '100-1/10W-1%-0603_4_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415544@LAN8710 MII ASSY_6583 REV_C1P0.100-1/10W-1%-0603_4.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415544@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415544@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,360)',
+ SECTION='';
+
+PART_NAME
+ R126 '100-1/10W-1%-0603_4_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415732@LAN8710 MII ASSY_6583 REV_C1P0.100-1/10W-1%-0603_4.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415732@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415732@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,370)',
+ SECTION='';
+
+PART_NAME
+ R127 'RES_100_1/10W_5%_0402_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415970@MASTER.RES_100_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415970@master.\res_100_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415970@master.\res_100_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,380)',
+ SECTION='';
+
+PART_NAME
+ R128 'RES_100_1/10W_5%_0402_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415902@MASTER.RES_100_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415902@master.\res_100_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415902@master.\res_100_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,390)',
+ SECTION='';
+
+PART_NAME
+ R129 '100-1/10W-1%-0603_4_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415196@LAN8710 MII ASSY_6583 REV_C1P0.100-1/10W-1%-0603_4.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415196@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415196@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,400)',
+ SECTION='';
+
+PART_NAME
+ R130 'RES_470_1/10W_5%_0402_402_470,5%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415646@MASTER.RES_470_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415646@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415646@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1100,390)',
+ SECTION='';
+
+PART_NAME
+ R131 'RES_100_1/10W_5%_0402_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415136@MASTER.RES_100_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415136@master.\res_100_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415136@master.\res_100_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,410)',
+ SECTION='';
+
+PART_NAME
+ R132 'RES_470_1/10W_5%_0402_402_470,5%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415636@MASTER.RES_470_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415636@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415636@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,410)',
+ SECTION='';
+
+PART_NAME
+ R133 'RES_100_1/10W_5%_0402_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415208@MASTER.RES_100_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415208@master.\res_100_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415208@master.\res_100_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,420)',
+ SECTION='';
+
+PART_NAME
+ R134 '100-1/10W-1%-0603_4_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415990@LAN8710 MII ASSY_6583 REV_C1P0.100-1/10W-1%-0603_4.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415990@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415990@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,440)',
+ SECTION='';
+
+PART_NAME
+ R135 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415556@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415556@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415556@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,450)',
+ SECTION='';
+
+PART_NAME
+ R136 'RES_0.1_0805_805_.1,0805':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415516@BEAGLE_D.RES_0.1_0805.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415516@beagle_d.\res_0.1_0805.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415516@beagle_d.\res_0.1_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,450)',
+ SECTION='';
+
+PART_NAME
+ R137 'RES_10K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415432@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415432@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415432@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,470)',
+ SECTION='';
+
+PART_NAME
+ R138 '100-1/10W-1%-0603_4_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415802@LAN8710 MII ASSY_6583 REV_C1P0.100-1/10W-1%-0603_4.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415802@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415802@\lan8710 mii assy_6583 rev_c1p0\.\100-1/10w-1%-0603_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,500)',
+ SECTION='';
+
+PART_NAME
+ R139 'RES_100_1/10W_5%_0402_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415258@MASTER.RES_100_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415258@master.\res_100_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415258@master.\res_100_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,510)',
+ SECTION='';
+
+PART_NAME
+ R14 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21609900@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21609900@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21609900@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1460,100)',
+ SECTION='';
+
+PART_NAME
+ R140 'RES_0_1/16W_1%_0402_402_0,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415586@MASTER.RES_0_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415586@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415586@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,530)',
+ SECTION='';
+
+PART_NAME
+ R141 'RES_1M_1/16W_1%_0402_402_1M,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21416002@MASTER.RES_1M_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21416002@master.\res_1m_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21416002@master.\res_1m_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,560)',
+ SECTION='';
+
+PART_NAME
+ R142 'RES_0_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415218@MASTER.RES_0_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415218@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415218@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,560)',
+ SECTION='';
+
+PART_NAME
+ R143 'RES_10K_1/16W_1%_0402_402_10,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415308@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415308@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415308@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,610)',
+ SECTION='';
+
+PART_NAME
+ R144 'RES_12.1K_1/16W_1%_0402_402_12.1K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415824@MASTER.RES_12.1K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415824@master.\res_12.1k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415824@master.\res_12.1k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,610)',
+ SECTION='';
+
+PART_NAME
+ R145 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415596@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415596@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415596@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,600)',
+ SECTION='';
+
+PART_NAME
+ R146 'RES_1.5K_1/16W_5%_0402_402_1.5K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21902284@MASTER.RES_1.5K_1/16W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21902284@master.\res_1.5k_1/16w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21902284@master.\res_1.5k_1/16w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,50)',
+ SECTION='';
+
+PART_NAME
+ R147 'RES_1.5K_1/16W_5%_0402_402_1.5K1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21902292@MASTER.RES_1.5K_1/16W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21902292@master.\res_1.5k_1/16w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21902292@master.\res_1.5k_1/16w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,50)',
+ SECTION='';
+
+PART_NAME
+ R148 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21504168@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21504168@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21504168@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,290)',
+ SECTION='';
+
+PART_NAME
+ R149 'RES_0_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21667202@MASTER.RES_0_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21667202@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21667202@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,550)',
+ SECTION='';
+
+PART_NAME
+ R150 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21730120@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21730120@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21730120@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,560)',
+ SECTION='';
+
+PART_NAME
+ R151 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21730128@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21730128@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21730128@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,560)',
+ SECTION='';
+
+PART_NAME
+ R152 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21730144@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21730144@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21730144@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,560)',
+ SECTION='';
+
+PART_NAME
+ R153 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21730136@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21730136@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21730136@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,560)',
+ SECTION='';
+
+PART_NAME
+ R154 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21730162@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21730162@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21730162@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,560)',
+ SECTION='';
+
+PART_NAME
+ R155 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21730180@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21730180@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21730180@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,560)',
+ SECTION='';
+
+PART_NAME
+ R156 'RES_0_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21606905@MASTER.RES_0_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21606905@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21606905@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,540)',
+ SECTION='';
+
+PART_NAME
+ R157 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21730154@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21730154@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21730154@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,640)',
+ SECTION='';
+
+PART_NAME
+ R158 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22108722@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22108722@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22108722@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,430)',
+ SECTION='';
+
+PART_NAME
+ R159 'RES_4.75K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22155564@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22155564@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins22155564@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,700)',
+ SECTION='';
+
+PART_NAME
+ R160 'RES_4.75K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22182494@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22182494@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22182494@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1510,790)',
+ SECTION='';
+
+PART_NAME
+ R161 'RES_4.75K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22182507@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22182507@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22182507@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1510,750)',
+ SECTION='';
+
+PART_NAME
+ R162 'RES_4.75K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22182585@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22182585@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22182585@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1670,1120)',
+ SECTION='';
+
+PART_NAME
+ R163 'RES_4.75K_1/16W_1%_0402_402_4.75K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22311484@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22311484@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins22311484@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,200)',
+ SECTION='';
+
+PART_NAME
+ R164 'RES_4.75K_1/16W_1%_0402_402_4.75K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22311497@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22311497@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins22311497@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,280)',
+ SECTION='';
+
+PART_NAME
+ R165 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22468788@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22468788@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins22468788@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,590)',
+ SECTION='';
+
+PART_NAME
+ R166 'RES_22.6K_1/16W_1%_0402_402_27K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22245934@MASTER.RES_22.6K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22245934@master.\res_22.6k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins22245934@master.\res_22.6k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,210)',
+ SECTION='';
+
+PART_NAME
+ R167 'RES_33_0402_0402_33':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22248898@MASTER.RES_33_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22248898@master.\res_33_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22248898@master.\res_33_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1690,930)',
+ SECTION='';
+
+PART_NAME
+ R17 'RES_1M_1/16W_1%_0402_402_1M,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20736605@MASTER.RES_1M_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20736605@master.\res_1m_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins20736605@master.\res_1m_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,280)',
+ SECTION='';
+
+PART_NAME
+ R18 'RES_33_0402_0402_33':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21917409@MASTER.RES_33_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21917409@master.\res_33_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21917409@master.\res_33_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1320,380)',
+ SECTION='';
+
+PART_NAME
+ R19 'RES_0_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21626164@MASTER.RES_0_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21626164@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21626164@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1530,390)',
+ SECTION='';
+
+PART_NAME
+ R20 'RES_0_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21626179@MASTER.RES_0_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21626179@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21626179@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1630,410)',
+ SECTION='';
+
+PART_NAME
+ R21 'RES_33_0402_0402_33':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21882381@MASTER.RES_33_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21882381@master.\res_33_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21882381@master.\res_33_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1720,600)',
+ SECTION='';
+
+PART_NAME
+ R22 'RES_4.7K_0402_402_49.9,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21321152@BEAGLE_D.RES_4.7K_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21321152@beagle_d.\res_4.7k_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21321152@beagle_d.\res_4.7k_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,1070)',
+ SECTION='';
+
+PART_NAME
+ R23 'RES_4.75K_1/16W_1%_0402_402_4.75K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21509075@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21509075@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21509075@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,1120)',
+ SECTION='';
+
+PART_NAME
+ R24 'RES_4.75K_1/16W_1%_0402_402_4.75K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21509116@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21509116@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21509116@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,1120)',
+ SECTION='';
+
+PART_NAME
+ R25 'RES_4.75K_1/16W_1%_0402_402_4.75K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21509142@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21509142@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21509142@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,1220)',
+ SECTION='';
+
+PART_NAME
+ R26 'RES_4.75K_1/16W_1%_0402_402_4.75K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20434182@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20434182@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins20434182@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,220)',
+ SECTION='';
+
+PART_NAME
+ R27 'RES_0_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20388266@MASTER.RES_0_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20388266@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins20388266@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,320)',
+ SECTION='';
+
+PART_NAME
+ R28 'RES_33_0402_0402_33':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21882331@MASTER.RES_33_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21882331@master.\res_33_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21882331@master.\res_33_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1750,430)',
+ SECTION='';
+
+PART_NAME
+ R29 'RES_0_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22509374@MASTER.RES_0_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22509374@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22509374@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,390)',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_1.5K_1/16W_5%_0402_402_1.5K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21421029@MASTER.RES_1.5K_1/16W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21421029@master.\res_1.5k_1/16w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21421029@master.\res_1.5k_1/16w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,210)',
+ SECTION='';
+
+PART_NAME
+ R30 'RES_0_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22518956@MASTER.RES_0_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22518956@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22518956@master.\res_0_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,190)',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_1.5K_1/16W_5%_0402_402_1.5K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21421021@MASTER.RES_1.5K_1/16W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21421021@master.\res_1.5k_1/16w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21421021@master.\res_1.5k_1/16w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,200)',
+ SECTION='';
+
+PART_NAME
+ R45 'RES_33_0402_0402_22':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21882251@MASTER.RES_33_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21882251@master.\res_33_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21882251@master.\res_33_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1760,650)',
+ SECTION='';
+
+PART_NAME
+ R46 'RES_33_0402_0402_0':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21882268@MASTER.RES_33_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21882268@master.\res_33_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21882268@master.\res_33_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1760,660)',
+ SECTION='';
+
+PART_NAME
+ R47 'RES_33_0402_0402_0':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21882285@MASTER.RES_33_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21882285@master.\res_33_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21882285@master.\res_33_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1760,670)',
+ SECTION='';
+
+PART_NAME
+ R48 'RES_33_0402_0402_0':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21882302@MASTER.RES_33_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21882302@master.\res_33_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21882302@master.\res_33_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1760,680)',
+ SECTION='';
+
+PART_NAME
+ R49 'RES_100K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21684503@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21684503@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21684503@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,750)',
+ SECTION='';
+
+PART_NAME
+ R5 'RES_4.75K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22309559@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22309559@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins22309559@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,620)',
+ SECTION='';
+
+PART_NAME
+ R50 'RES_4.75K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21627112@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21627112@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21627112@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,820)',
+ SECTION='';
+
+PART_NAME
+ R51 'RES_4.75K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21627128@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21627128@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21627128@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,860)',
+ SECTION='';
+
+PART_NAME
+ R52 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21717716@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21717716@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21717716@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,1040)',
+ SECTION='';
+
+PART_NAME
+ R53 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21717708@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21717708@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21717708@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,1130)',
+ SECTION='';
+
+PART_NAME
+ R54 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20412574@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20412574@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20412574@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1340,800)',
+ SECTION='';
+
+PART_NAME
+ R55 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21810159@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21810159@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21810159@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(40,60)',
+ SECTION='';
+
+PART_NAME
+ R56 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21653637@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21653637@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21653637@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,60)',
+ SECTION='';
+
+PART_NAME
+ R57 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21809661@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21809661@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21809661@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,60)',
+ SECTION='';
+
+PART_NAME
+ R58 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21809564@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21809564@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21809564@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,60)',
+ SECTION='';
+
+PART_NAME
+ R59 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21809402@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21809402@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21809402@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,60)',
+ SECTION='';
+
+PART_NAME
+ R6 'RES_4.75K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22310066@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22310066@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins22310066@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,440)',
+ SECTION='';
+
+PART_NAME
+ R60 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21809299@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21809299@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21809299@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,60)',
+ SECTION='';
+
+PART_NAME
+ R61 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21809166@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21809166@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21809166@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,60)',
+ SECTION='';
+
+PART_NAME
+ R62 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21809066@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21809066@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21809066@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,60)',
+ SECTION='';
+
+PART_NAME
+ R63 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21808678@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21808678@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21808678@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,60)',
+ SECTION='';
+
+PART_NAME
+ R64 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21808249@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21808249@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21808249@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,60)',
+ SECTION='';
+
+PART_NAME
+ R65 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21802285@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21802285@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21802285@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,60)',
+ SECTION='';
+
+PART_NAME
+ R66 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21653669@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21653669@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21653669@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,60)',
+ SECTION='';
+
+PART_NAME
+ R67 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21653645@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21653645@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21653645@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,60)',
+ SECTION='';
+
+PART_NAME
+ R68 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21769056@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21769056@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21769056@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,60)',
+ SECTION='';
+
+PART_NAME
+ R69 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21807400@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21807400@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21807400@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,60)',
+ SECTION='';
+
+PART_NAME
+ R7 'RES_4.75K_1/16W_1%_0402_402_0,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22367088@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22367088@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins22367088@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,600)',
+ SECTION='';
+
+PART_NAME
+ R70 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21808372@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21808372@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21808372@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,60)',
+ SECTION='';
+
+PART_NAME
+ R71 'RES_470_1/10W_5%_0402_402_4.75K,5%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21511250@MASTER.RES_470_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21511250@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21511250@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1350,70)',
+ SECTION='';
+
+PART_NAME
+ R72 'RES_470_1/10W_5%_0402_402_4.75K,5%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20428380@MASTER.RES_470_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20428380@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20428380@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,90)',
+ SECTION='';
+
+PART_NAME
+ R73 'RES_470_1/10W_5%_0402_402_4.75K,5%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20428361@MASTER.RES_470_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20428361@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20428361@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,90)',
+ SECTION='';
+
+PART_NAME
+ R74 'RES_470_1/10W_5%_0402_402_4.75K,5%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21511242@MASTER.RES_470_1/10W_5%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21511242@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21511242@master.\res_470_1/10w_5%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1190,80)',
+ SECTION='';
+
+PART_NAME
+ R75 'RES_100K_1/16W_1%_0402_402_100,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21730636@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21730636@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21730636@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,120)',
+ SECTION='';
+
+PART_NAME
+ R76 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20399948@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20399948@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20399948@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,280)',
+ SECTION='';
+
+PART_NAME
+ R77 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20400004@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20400004@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20400004@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,280)',
+ SECTION='';
+
+PART_NAME
+ R78 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21511093@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21511093@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21511093@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,280)',
+ SECTION='';
+
+PART_NAME
+ R79 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21511101@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21511101@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21511101@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1280,290)',
+ SECTION='';
+
+PART_NAME
+ R8 'RES_4.75K_1/16W_1%_0402_402_0':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22367101@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22367101@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins22367101@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,640)',
+ SECTION='';
+
+PART_NAME
+ R80 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20414056@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20414056@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20414056@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(40,360)',
+ SECTION='';
+
+PART_NAME
+ R81 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21809823@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21809823@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21809823@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,360)',
+ SECTION='';
+
+PART_NAME
+ R82 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20414152@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20414152@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20414152@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,360)',
+ SECTION='';
+
+PART_NAME
+ R83 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20414072@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20414072@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20414072@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,360)',
+ SECTION='';
+
+PART_NAME
+ R84 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20414080@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20414080@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20414080@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,360)',
+ SECTION='';
+
+PART_NAME
+ R85 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20414088@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20414088@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20414088@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,360)',
+ SECTION='';
+
+PART_NAME
+ R86 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20414096@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20414096@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20414096@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,360)',
+ SECTION='';
+
+PART_NAME
+ R87 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20414104@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20414104@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20414104@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,360)',
+ SECTION='';
+
+PART_NAME
+ R88 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20414112@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20414112@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20414112@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,360)',
+ SECTION='';
+
+PART_NAME
+ R89 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20414120@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20414120@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20414120@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,360)',
+ SECTION='';
+
+PART_NAME
+ R9 'RES_4.75K_1/16W_1%_0402_402_0,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22367114@MASTER.RES_4.75K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22367114@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins22367114@master.\res_4.75k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,550)',
+ SECTION='';
+
+PART_NAME
+ R90 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21808080@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21808080@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21808080@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,360)',
+ SECTION='';
+
+PART_NAME
+ R91 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21807933@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21807933@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21807933@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,360)',
+ SECTION='';
+
+PART_NAME
+ R92 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21807764@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21807764@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21807764@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,360)',
+ SECTION='';
+
+PART_NAME
+ R93 'RES_100K_1/16W_1%_0402_402_100K,1%,DNI':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21807596@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21807596@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21807596@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,360)',
+ SECTION='';
+
+PART_NAME
+ R94 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21654030@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21654030@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21654030@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,360)',
+ SECTION='';
+
+PART_NAME
+ R95 'RES_100K_1/16W_1%_0402_402_100K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20414144@MASTER.RES_100K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20414144@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins20414144@master.\res_100k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,360)',
+ SECTION='';
+
+PART_NAME
+ R96 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21650576@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21650576@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21650576@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,10)',
+ SECTION='';
+
+PART_NAME
+ R97 'RES_10K_1/16W_1%_0402_402_1.5K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21650412@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21650412@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21650412@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,30)',
+ SECTION='';
+
+PART_NAME
+ R98 'RES_10K_1/16W_1%_0402_402_10K,1%':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21650712@MASTER.RES_10K_1/16W_1%_0402.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21650712@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21650712@master.\res_10k_1/16w_1%_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,590)',
+ SECTION='';
+
+PART_NAME
+ R99 'RES_SM-7351-RES-0402_240':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21650637@GDA_ORCAD.RES.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21650637@gda_orcad.\res.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21650637@gda_orcad.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,620)',
+ SECTION='';
+
+PART_NAME
+ RT1 'PTC_RXEF010_POLYSW200-5638-310_PTC_RXEF010':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21535571@BEAGLE_D.PTC_RXEF010.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21535571@beagle_d.\ptc_rxef010.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21535571@beagle_d.\ptc_rxef010.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1190,20)',
+ SECTION='';
+
+PART_NAME
+ S1 'SW_KT11P2JM_2_SW4SMD_63X161LS_DISCRETE_KMR231GLFS':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21609659@BEAGLEBONELT_A.SW_KT11P2JM_2.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21609659@beaglebonelt_a.\sw_kt11p2jm_2.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21609659@beaglebonelt_a.\sw_kt11p2jm_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,140)',
+ SECTION='';
+
+PART_NAME
+ S2 'SW_KT11P2JM_1_SW4SMD_63X161LS_DISCRETE_KMR231GLFS':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21768997@BEAGLEBONELT_A.SW_KT11P2JM_1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21768997@beaglebonelt_a.\sw_kt11p2jm_1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page6_ins21768997@beaglebonelt_a.\sw_kt11p2jm_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,120)',
+ SECTION='';
+
+PART_NAME
+ S3 'SW_KT11P2JM_2_SW4SMD_63X161LS_DISCRETE_KMR231GLFS':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22430530@BEAGLEBONELT_A.SW_KT11P2JM_2.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22430530@beaglebonelt_a.\sw_kt11p2jm_2.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins22430530@beaglebonelt_a.\sw_kt11p2jm_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,330)',
+ SECTION='';
+
+PART_NAME
+ TP1 'TESTPT1_TP1-8040_TESTPT1':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20429129@BEAGLE_D.TESTPT1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20429129@beagle_d.\testpt1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins20429129@beagle_d.\testpt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1410,60)',
+ SECTION='';
+
+PART_NAME
+ TP2 'TESTPT1_TP60C_SMD_TESTPT1':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20429627@BEAGLE_D.TESTPT1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20429627@beagle_d.\testpt1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20429627@beagle_d.\testpt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,450)',
+ SECTION='';
+
+PART_NAME
+ TP3 'TESTPT1_TP60C_SMD_TESTPT1':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20429641@BEAGLE_D.TESTPT1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20429641@beagle_d.\testpt1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins20429641@beagle_d.\testpt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1310,770)',
+ SECTION='';
+
+PART_NAME
+ TP4 'TESTPT1_TP1-8040_TESTPT1':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21606856@BEAGLE_D.TESTPT1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21606856@beagle_d.\testpt1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins21606856@beagle_d.\testpt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,570)',
+ SECTION='';
+
+PART_NAME
+ TP5 'TESTPT1_TP60C33D_TESTPT1':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22420386@BEAGLE_D.TESTPT1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22420386@beagle_d.\testpt1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins22420386@beagle_d.\testpt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,140)',
+ SECTION='';
+
+PART_NAME
+ TP6 'TESTPT1_TP60C33D_TESTPT1':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22425965@BEAGLE_D.TESTPT1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22425965@beagle_d.\testpt1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins22425965@beagle_d.\testpt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,160)',
+ SECTION='';
+
+PART_NAME
+ TP7 'TESTPT1_TP60C33D_TESTPT1':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22425978@BEAGLE_D.TESTPT1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22425978@beagle_d.\testpt1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins22425978@beagle_d.\testpt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,170)',
+ SECTION='';
+
+PART_NAME
+ TP8 'TESTPT1_TP60C33D_TESTPT1':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22425991@BEAGLE_D.TESTPT1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22425991@beagle_d.\testpt1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins22425991@beagle_d.\testpt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,180)',
+ SECTION='';
+
+PART_NAME
+ TP9 'TESTPT1_TP60C33D_TESTPT1':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22488566@BEAGLE_D.TESTPT1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22488566@beagle_d.\testpt1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins22488566@beagle_d.\testpt1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,520)',
+ SECTION='';
+
+PART_NAME
+ U10 'PROT_TPD4S012_U_6_DRY_TPD4S012':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21796970@MASTER.PROT_TPD4S012.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21796970@master.\prot_tpd4s012.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21796970@master.\prot_tpd4s012.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,1130)',
+ SECTION='';
+
+PART_NAME
+ U11 'IC_TDA19988_HVQFN64_5_QFN64S9X9P5_TDA19988':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21504176@BEAGLEBONELT_P25.IC_TDA19988_HVQFN64_5.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21504176@beaglebonelt_p25.\ic_tda19988_hvqfn64_5.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page10_ins21504176@beaglebonelt_p25.\ic_tda19988_hvqfn64_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,90)',
+ SECTION='';
+
+PART_NAME
+ U12 'MT47H256M8_7_BGA96_T9_P8_9X14_MT41K256M16HA -125:E':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21650969@BEAGLEBONELT_A2.MT47H256M8_7.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21650969@beaglebonelt_a2.\mt47h256m8_7.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page7_ins21650969@beaglebonelt_a2.\mt47h256m8_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,50)',
+ SECTION='';
+
+PART_NAME
+ U13 'MEM_MNAND_2GB_BGA153_P14_P5_11P5X13_MEM_MNAND_4GB':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22081186@MASTER.MEM_MNAND_2GB.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22081186@master.\mem_mnand_2gb.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page8_ins22081186@master.\mem_mnand_2gb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,160)',
+ SECTION='';
+
+PART_NAME
+ U14 'LAN8710 QFN32_1_QFN32_5X5MM_EP3P3MM_LAN8710A':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415358@BEAGLEBONE_P1.LAN8710 QFN32_1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415358@beaglebone_p1.\lan8710 qfn32_1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415358@beaglebone_p1.\lan8710 qfn32_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,310)',
+ SECTION='';
+
+PART_NAME
+ U15 'IC_SN74LVC2G241_1_U_8_DCU_SN74LVC2G241':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22316410@BEAGLEBONELT_A3.IC_SN74LVC2G241_1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22316410@beaglebonelt_a3.\ic_sn74lvc2g241_1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins22316410@beaglebonelt_a3.\ic_sn74lvc2g241_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,510)',
+ SECTION='';
+
+PART_NAME
+ U16 'IC_SN74LVC1G07DCK_DCK5_2P15X1P4_SN74LVC1G07DCK':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22504771@MASTER.IC_SN74LVC1G07DCK.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22504771@master.\ic_sn74lvc1g07dck.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22504771@master.\ic_sn74lvc1g07dck.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,140)',
+ SECTION='';
+
+PART_NAME
+ U2 'PWR_TPS65217_2_U_48_RSL_TPS65217C':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21420613@BEAGLEBONE_REV B.PWR_TPS65217_2.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21420613@\beaglebone_rev b\.\pwr_tps65217_2.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21420613@\beaglebone_rev b\.\pwr_tps65217_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,100)',
+ SECTION='';
+
+PART_NAME
+ U3 'IC_SN74LVC1G06DCK_0_DCK5_2P15X1P4_SN74LVC1G06DCK':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22287364@BEAGLEBONELT_P16.IC_SN74LVC1G06DCK_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22287364@beaglebonelt_p16.\ic_sn74lvc1g06dck_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22287364@beaglebonelt_p16.\ic_sn74lvc1g06dck_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1450,1100)',
+ SECTION='';
+
+PART_NAME
+ U4 'PWR_TLV70233DBV_0_SO8-25X75_TL5209':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21756576@BEAGLEBONELT_P14.PWR_TLV70233DBV_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21756576@beaglebonelt_p14.\pwr_tlv70233dbv_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page2_ins21756576@beaglebonelt_p14.\pwr_tlv70233dbv_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,740)',
+ SECTION='';
+
+PART_NAME
+ U5 'IC_AM335X_ZCZ_AM33XX_15X15_AM3358BZCZ100':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22009919@MASTER.IC_AM335X_ZCZA.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22009919@master.\ic_am335x_zcza.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22009919@master.\ic_am335x_zcza.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,330)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22011018@MASTER.IC_AM335X_ZCZB.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22011018@master.\ic_am335x_zczb.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins22011018@master.\ic_am335x_zczb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,330)',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22011780@MASTER.IC_AM335X_ZCZC.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22011780@master.\ic_am335x_zczc.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page5_ins22011780@master.\ic_am335x_zczc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,330)',
+ SECTION='C';
+
+PART_NAME
+ U6 'IC_SN74AUC1G74_SOP8_DCT_SN74AUC1G74':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21530993@MASTER.IC_SN74AUC1G74.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21530993@master.\ic_sn74auc1g74.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins21530993@master.\ic_sn74auc1g74.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1520,570)',
+ SECTION='';
+
+PART_NAME
+ U7 'MEM_24LC32_SOT23-5_SOT23-5_24LC32A':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22017940@MASTER.MEM_24LC32_SOT23-5.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22017940@master.\mem_24lc32_sot23-5.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page11_ins22017940@master.\mem_24lc32_sot23-5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,480)',
+ SECTION='';
+
+PART_NAME
+ U8 'TPS2061_1_DGN-16X60_TPS2051 (DGN)':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21717652@BEAGLEBONELT_P16.TPS2061_1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21717652@beaglebonelt_p16.\tps2061_1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21717652@beaglebonelt_p16.\tps2061_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,1080)',
+ SECTION='';
+
+PART_NAME
+ U9 'PROT_TPD4S012_U_6_DRY_TPD4S012':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21717765@MASTER.PROT_TPD4S012.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21717765@master.\prot_tpd4s012.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page4_ins21717765@master.\prot_tpd4s012.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,1130)',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYS_32_768KHZ_SMD32_1_XTAL4_126-216SMD_32.768KHZ MC-306':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20899520@BEAGLEBONELT_P17.CRYS_32_768KHZ_SMD32_1.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20899520@beaglebonelt_p17.\crys_32_768khz_smd32_1.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins20899520@beaglebonelt_p17.\crys_32_768khz_smd32_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,230)',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYS_24MHZ_SCC_0_XTAL150SMD_125X196_24MHZ':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS20736639@BEAGLEBONELT_P16.CRYS_24MHZ_SCC_0.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins20736639@beaglebonelt_p16.\crys_24mhz_scc_0.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins20736639@beaglebonelt_p16.\crys_24mhz_scc_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,290)',
+ SECTION='';
+
+PART_NAME
+ Y3 'SUNTSU ITEMP 25MHZ _0.005% 20PF_XTAL150SMD_125X196_25.000MHZ':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS21415656@BEAGLEBONE_P7.SUNTSU ITEMP 25MHZ _0.005% 20PF.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins21415656@beaglebone_p7.\suntsu itemp 25mhz _0.005% 20pf.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page9_ins21415656@beaglebone_p7.\suntsu itemp 25mhz _0.005% 20pf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,650)',
+ SECTION='';
+
+PART_NAME
+ Y4 'OSC_12MHZ_1.3V_OSC4_61X65LS_79X98SMD_24.576MHZ':;
+
+SECTION_NUMBER 1
+ '@BEAGLEBONEBLK_C.BEAGLEBONEBLACK(SCH_1):INS22248669@BEAGLEBONELT_A1.OSC_12MHZ_1.3V.NORMAL(CHIPS)':
+ C_PATH='@beagleboneblk_c.beagleboneblack(sch_1):ins22248669@beaglebonelt_a1.\osc_12mhz_1.3v.normal\(chips)',
+ P_PATH='@beagleboneblk_c.beagleboneblack(sch_1):page3_ins22248669@beaglebonelt_a1.\osc_12mhz_1.3v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1540,900)',
+ SECTION='';
+
+END.
