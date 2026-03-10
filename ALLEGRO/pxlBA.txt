@@ -1,0 +1,156 @@
+# pxlba generated file
+
+# pxlBA.txt : Extract file used to extract properties for
+#             back annotation using packagerxl. Refer to Allegro extract
+#             documentation for more details on the syntax of this file
+#             and the Extract program.
+
+#             The lines starting with # are comments.
+#             The default version of this file extracts the minimum number
+#             of properties necessary to ba changes to packaging.
+#             To extract additional properties the user must remove the
+#             comment character '#' from the appropriate lines. Or
+#             add a line with the property name to the appropriate section.
+
+#             a2pxl looks for this file in the current working directory.
+#             If it is not found there, it looks for it
+#             in the hierarchy in the following location:
+#                 <installation dir>/tools/pcb/text/views
+
+
+# Connection view. File: pinView.dat
+#
+LOGICAL_PIN
+# These properties must not be removed, moved or modified.
+#  vvvvvvvvvvvvvvvvvvv
+NET_NAME
+REFDES
+PIN_NUMBER
+FUNC_LOGICAL_PATH
+COMP_DEVICE_TYPE
+FUNC_SCH_SIZE
+FUNC_HAS_FIXED_SIZE
+FUNC_DES
+#  ^^^^^^^^^^^^^^^^^^^
+# Any other PIN properties to be back annotated show up here.
+PIN_NET_SHORT
+PIN_NO_SWAP_PIN
+PIN_NO_PIN_ESCAPE
+PIN_CDS_PINID
+PIN_XNET_PINS
+PIN_PIN_ESCAPE
+PIN_PIN_SIGNAL_MODEL
+PIN_NO_DRC
+PIN_NO_SHAPE_CONNECT
+END
+
+# Function properties view. File: funcView.dat
+# In order to backannotate function properties you must
+# include FUNC_LOGICAL_PATH.
+#
+FUNCTION
+FUNC_LOGICAL_PATH
+COMP_DEVICE_TYPE
+REFDES
+FUNC_PRIM_FILE
+COMP_PARENT_PPT
+COMP_PARENT_PPT_PART
+COMP_PARENT_PART_TYPE
+FUNC_SCH_SIZE
+FUNC_HAS_FIXED_SIZE
+FUNC_DES
+FUNC_GROUP
+FUNC_ROOM
+FUNC_CDS_FSP_UID
+FUNC_NO_SWAP_PIN
+FUNC_HARD_LOCATION
+FUNC_NO_SWAP_GATE_EXT
+FUNC_CDS_FSP_MAPPED_CELL
+FUNC_CDS_FSP_FPGA_SYMBOL
+FUNC_CDS_FSP_TERM_TYPE
+FUNC_CDS_FSP_TERM_NAME
+FUNC_ROOM
+FUNC_GROUP
+FUNC_CDS_FSP_TERM_INDEX
+FUNC_CDS_FSP_INSTANCE_ID
+FUNC_NO_SWAP_GATE
+FUNC_NO_XNET_CONNECTION
+FUNC_CDS_FSP_IS_FPGA
+END
+
+# Component properties view. File: compView.dat
+# In order to backannotate component properties you must
+# include REFDES
+#
+COMPONENT
+REFDES
+COMP_VOLTAGE
+COMP_ROOM
+COMP_GROUP
+COMP_SIGNAL_MODEL
+COMP_NO_XNET_CONNECTION
+#   The following two properties are needed to feedback ppt
+#   part selections done in Allegro.
+#   You may comment them out if you do not use this functionality.
+COMP_PARENT_PPT
+COMP_PARENT_PPT_PART
+COMP_REUSE_ID
+COMP_REUSE_NAME
+COMP_REUSE_INSTANCE
+END
+
+#
+# Signal properties view. File: netView.dat
+# In order to backannotate signal properties you must
+# include NET_NAME
+#
+NET
+NET_NAME
+NET_LOGICAL_PATH
+NET_CDS_FSP_UID
+NET_SHIELD_NET
+NET_RELATIVE_PROPAGATION_DELAY
+NET_NO_PIN_ESCAPE
+NET_NET_SHORT
+NET_VOLTAGE_LAYER
+NET_VOLTAGE
+NET_RATSNEST_SCHEDULE
+NET_CLOCK_NET
+NET_NET_PHYSICAL_TYPE
+NET_MAX_FINAL_SETTLE
+NET_NO_TEST
+NET_MAX_EXPOSED_LENGTH
+NET_ELECTRICAL_CONSTRAINT_SET
+NET_CDS_FSP_BUS_INDEX
+NET_STUB_LENGTH
+NET_SHIELD_TYPE
+NET_NO_RAT
+NET_PROPAGATION_DELAY
+NET_NO_RIPUP
+NET_MIN_HOLD
+NET_DIFFERENTIAL_PAIR
+NET_MIN_SETUP
+NET_MIN_NECK_WIDTH
+NET_BUS_NAME
+NET_MIN_NOISE_MARGIN
+NET_MATCHED_DELAY
+NET_ECL
+NET_DIFFP_LENGTH_TOL
+NET_DIFFP_2ND_LENGTH
+NET_NET_GROUP_GRP_NAME
+NET_SUBNET_NAME
+NET_MIN_BOND_LENGTH
+NET_MAX_OVERSHOOT
+NET_TS_ALLOWED
+NET_MAX_VIA_COUNT
+NET_EMC_CRITICAL_NET
+NET_CDS_FSP_NET
+NET_PROBE_NUMBER
+NET_NO_ROUTE
+NET_MIN_LINE_WIDTH
+NET_ECL_TEMP
+NET_NO_GLOSS
+NET_ROUTE_PRIORITY
+NET_NET_SPACING_TYPE
+NET_IMPEDANCE_RULE
+END
